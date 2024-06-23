@@ -9,6 +9,7 @@ public Master
     string name = Manoj;
     string userid = 1234;
     Console.writeLine("My name is {0} and Id is {1}",name,id);
+Console.writeLine("manoj");
   
   }
 
